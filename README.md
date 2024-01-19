@@ -14,14 +14,13 @@ This project is a backend implementation of a login and signup REST API with sec
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/Shimbhu77/GreenStich_Backend_Assignment.git
+git clone https://github.com/pushprajjaiswal/GreenStitch_assignment
 ```
 
 ### 2. Go the Project
 
 ```
-cd GreenStich_Backend_Assignment/GreenStitch_Backend_Assignment
-
+cd /GreenStitch_assignment
 ```
 
 ### 3. Run the Application
