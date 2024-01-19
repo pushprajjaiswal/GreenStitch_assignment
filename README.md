@@ -1,6 +1,14 @@
 # Login and Signup Backend API with Security and JWT Tokens
 
 This project is a backend implementation of a login and signup REST API with security and JWT tokens. It is built using Java, Spring Boot, and utilizes H2 database for data storage. The API endpoints provided below demonstrate the functionality of the application.
+## User Registration, Login and Authorization process.
+
+![spring-boot-security-login-jwt-flow](spring-boot-security-login-jwt-flow.png)
+
+## Spring Boot Server Architecture with Spring Security
+You can have an overview of our Spring Boot Server with the diagram below:
+
+![spring-boot-security-login-jwt-architecture](spring-boot-security-login-jwt-architecture.png)
 
 ## Installation and Setup
 
@@ -153,5 +161,5 @@ spring.h2.console.path=/h2-console
 
 ## **Contributors**
 
-- **[Shimbhu Kumawat](https://github.com/pushprajjaiswal)**
+- **[Pushpraj Jaiswal](https://github.com/pushprajjaiswal)**
  
