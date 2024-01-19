@@ -38,7 +38,7 @@ public class JwtGeneratorFilter extends OncePerRequestFilter {
             
             
             String jwt = Jwts.builder()
-            		.setIssuer("Shimbhu")
+            		.setIssuer("Demo")
             		.setSubject("JWT Token")
                     .claim("username", authentication.getName())
                     .claim("role",getRole(authentication.getAuthorities()))

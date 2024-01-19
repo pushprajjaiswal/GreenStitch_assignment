@@ -65,7 +65,7 @@ public class UserController {
 	{
 		UserData user =  userService.loginUser();
 		
-		String message = "Welcome to Shimbhu's Website  : " +user.getFullName();
+		String message = "“Hello from GreenStitch: " +user.getFullName();
 		
 		return new ResponseEntity<String>(message,HttpStatus.OK);
 	}
