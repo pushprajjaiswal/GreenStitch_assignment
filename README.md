@@ -159,7 +159,5 @@ spring.h2.console.path=/h2-console
 
 ```
 
-## **Contributors**
 
-- **[Pushpraj Jaiswal](https://github.com/pushprajjaiswal)**
  
